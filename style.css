@@ -88,20 +88,20 @@ body {
 /* Laptop */
 @media (max-width) {
   html {
-    font-size: 100%;
+    font-size: 77%;
   }
 }
 
 /*tablet*/
 @media (max-width: 768px) {
   html {
-    font-size: 90%;
+    font-size: 62.5%;
   }
 }
 
 /* Mobile Phone*/
 @media (max-width: 450px) {
   html {
-    font-size: 62%;
+    font-size: 55%;
   }
 }
