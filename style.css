@@ -88,7 +88,7 @@ body {
 /* Laptop */
 @media (max-width) {
   html {
-    font-size: 77%;
+    font-size: 75%;
   }
 }
 
@@ -100,7 +100,7 @@ body {
 }
 
 /* Mobile Phone*/
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   html {
     font-size: 55%;
   }
