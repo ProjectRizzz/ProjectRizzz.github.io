@@ -84,8 +84,9 @@ body {
 }
 
 /*media Queries*/
+
 /* Mobile Phone*/
-@media (max-width: 550px) {
+@media (max-width: 500px) {
   .link-list {
     width: 350px;
   }
